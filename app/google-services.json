@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175085934892",
+    "project_id": "loginraulito",
+    "storage_bucket": "loginraulito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175085934892:android:80180bd121e07d485d7489",
+        "android_client_info": {
+          "package_name": "com.example.loginraulito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrtKSwKW_rEl9tbStsFcPWqE3an9rmiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
